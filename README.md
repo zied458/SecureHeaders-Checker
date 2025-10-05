@@ -76,7 +76,7 @@ A powerful browser extension for developers to analyze and evaluate website secu
 - **`popup.html`** — UI displayed when the extension icon is clicked.
 - **`popup.js`** — Core logic for header analysis, rendering results, and report generation.
   <p align="center">
-  <img src="assets/screenshot-popup.png" alt="SecureHeaders Checker — Popup UI" width="720"> 
+  <img src="secure-headers-checker/Screenshot 2025-10-05 151827.png" alt="SecureHeaders Checker — Popup UI" width="400"> 
   </p>
   
 ---
