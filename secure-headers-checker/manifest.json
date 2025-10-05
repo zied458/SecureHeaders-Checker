@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "SecureHeaders Checker",
+  "version": "1.0",
+  "description": "Checks website security headers and scores them based on OWASP best practices.",
+  "permissions": ["webRequest", "activeTab", "storage", "downloads"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
